@@ -2,4 +2,5 @@ matplotlib
 pandas
 seaborn
 plotly
-
+sklearn
+numpy
